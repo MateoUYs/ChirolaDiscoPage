@@ -1,0 +1,7 @@
+# Originales preservados localmente, reemplazados por versiones web referenciadas en el sitio.
+media/eventos/evento-01/fiesta-real.mp4
+media/eventos/evento-02/lola-pista-pantalla-aros.mp4
+media/eventos/evento-02/chirola-pantalla-real.mp4
+
+# Archivos auxiliares que no deben publicarse si quedan en out por builds anteriores.
+media/README.md

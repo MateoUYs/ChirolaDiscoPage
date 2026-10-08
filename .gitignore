@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Next.js / build output
+.next/
+out/
+out-pages/
+
+# Local assets, backups and generated media sources
+localImages/
+r2-media/
+*.7z
+*.zip
+*.rar
+*.tar
+*.tar.gz
+*.tgz
+
+# Logs and caches
+*.log
+*.tsbuildinfo
+.cache/
+
+# Environment and deployment secrets
+.env
+.env.*
+!.env.example
+.wrangler/
+wrangler.toml
+
+# OS / editor files
+.DS_Store
+Thumbs.db

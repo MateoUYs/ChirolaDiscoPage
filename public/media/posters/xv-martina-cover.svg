@@ -1,0 +1,21 @@
+<svg width="1400" height="900" viewBox="0 0 1400 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="900" fill="#030403"/>
+  <image href="/media/montajes/aros/aros-espejados-collage-02.jpeg" x="0" y="-250" width="1400" height="1400" preserveAspectRatio="xMidYMid slice" opacity="0.68"/>
+  <rect width="1400" height="900" fill="url(#shade)"/>
+  <circle cx="1110" cy="180" r="360" fill="#a6ff00" opacity="0.14"/>
+  <circle cx="380" cy="710" r="310" fill="#ff2aa3" opacity="0.2"/>
+  <path d="M70 76H1330V824H70V76Z" stroke="#a6ff00" stroke-width="2" opacity="0.7"/>
+  <path d="M106 116H1294" stroke="#a6ff00" stroke-width="8" opacity="0.9"/>
+  <text x="112" y="210" fill="#a6ff00" font-family="Arial Black, Impact, sans-serif" font-size="28" font-weight="900" letter-spacing="10">CHIrola Disco</text>
+  <text x="108" y="430" fill="#f6f7ef" font-family="Impact, Arial Black, sans-serif" font-size="178" letter-spacing="-3">XV</text>
+  <text x="324" y="430" fill="#f6f7ef" font-family="Impact, Arial Black, sans-serif" font-size="148" letter-spacing="-2">DE MARTINA</text>
+  <text x="116" y="520" fill="#d8ded0" font-family="Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="8">PANTALLA · PISTA LED · AROS ESPEJADOS</text>
+  <text x="112" y="765" fill="#a6ff00" font-family="Arial Black, Impact, sans-serif" font-size="24" font-weight="900" letter-spacing="8">EVENTO REALIZADO</text>
+  <defs>
+    <linearGradient id="shade" x1="0" y1="0" x2="1400" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#030403" stop-opacity="0.94"/>
+      <stop offset="0.42" stop-color="#030403" stop-opacity="0.56"/>
+      <stop offset="1" stop-color="#030403" stop-opacity="0.88"/>
+    </linearGradient>
+  </defs>
+</svg>
